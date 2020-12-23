@@ -14,7 +14,5 @@ def link
 end  
 
 def all_phrases 
-  puts phrase 
-  puts status
-  puts says
+  puts phrase, status, says
 end  
